@@ -6,6 +6,6 @@ a. Describe a dynamic programming to make change consisting of quarters, dimes, 
 
 b. Describe a greedy algorithm to make change consisting of quarters, dimes, nickels, and pennies. Prove that your algorithm yields an optimal solution. Implement your algorithm and test your solution.
 
-c. Suppose that the available coins are in the denominations that are powers of c, i.e., the denominations are c^0, c^1, ...., c^k for some integers c>1 and k>= 0. Show that the greedy algorithm always yields an optimal solutions. 
+c. Suppose that the available coins are in the denominations that are powers of c, i.e., the denominations are c<sup>0</sup>, c<sup>1</sup>, ...., c<sup>k</sup> for some integers c>1 and k>= 0. Show that the greedy algorithm always yields an optimal solutions. 
 
 Please submit your source codes, corresponding proofs, and a screenshot of execution results.
